@@ -1,159 +1,178 @@
-# 🚀 AI for Research: Supercharge Your Academic Journey
+Here’s the README.md entirely in an HTML code block for easier formatting and use in contexts where you want a self-contained HTML-like structure:
 
-Welcome to **AI for Research**, where you'll learn how to harness the power of **Zotero**, **ChatGPT**, and **Undermind** to make your academic life easier, faster, and more effective.
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI for Research in Philosophy</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            color: #333;
+        }
+        h1, h2, h3 {
+            color: #2c3e50;
+        }
+        code {
+            background-color: #f4f4f4;
+            padding: 2px 6px;
+            border-radius: 4px;
+            font-size: 90%;
+        }
+        a {
+            color: #3498db;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+        blockquote {
+            font-style: italic;
+            color: #7f8c8d;
+            border-left: 4px solid #dfe6e9;
+            padding-left: 10px;
+            margin: 20px 0;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 20px 0;
+        }
+        th, td {
+            border: 1px solid #dfe6e9;
+            padding: 8px;
+            text-align: left;
+        }
+        th {
+            background-color: #f9fafb;
+        }
+        .center {
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <h1>🧠 AI for Research in Philosophy: Practical Tools to Save Time and Effort</h1>
+    <p>This guide is designed to help you efficiently complete the <strong>research statement</strong>, <strong>question</strong>, and <strong>bibliography</strong> for your final essay in the <em>Ethics and Mental Health</em> course. By using AI tools thoughtfully, you can save time and focus on writing and critical thinking.</p>
 
----
+    <hr>
 
-<div align="center">
+    <h2>🌞 A Note on AI: Power Without Control is Chaos</h2>
+    <p>The Greek myth of <strong>Phaethon</strong> reminds us of the dangers of taking on power we can’t control. Phaethon, eager to prove himself, took the reins of Apollo’s sun chariot—but without the skill to guide it, he plunged the world into chaos.</p>
+    <p>AI tools are like Apollo’s chariot: incredibly powerful, but potentially dangerous if you let them run wild. These tools won’t write your essay or think for you, but they can empower you to work faster and more effectively—if you take the reins.</p>
 
-📚 **Why Research Smarter?**  
-AI tools can revolutionize how you find, organize, and use information. From managing references to brainstorming ideas, this workshop will show you how to get the most out of cutting-edge technology.  
+    <hr>
 
-💡 **By the end of this session, you will be able to:**  
-- **Organize** your research with ease using Zotero.  
-- **Brainstorm** and **summarize** ideas with ChatGPT.  
-- **Discover** academic sources faster with Undermind.
+    <h2>📖 Table of Contents</h2>
+    <ol>
+        <li><a href="#introduction">Introduction</a></li>
+        <li><a href="#core-tool-undermind">Core Tool: Undermind</a>
+            <ul>
+                <li><a href="#how-to-use-undermind">How to Use Undermind</a></li>
+            </ul>
+        </li>
+        <li><a href="#additional-tools-for-research">Additional Tools for Research</a></li>
+        <li><a href="#best-practices">Best Practices</a></li>
+        <li><a href="#resources">Resources</a></li>
+        <li><a href="#contact">Contact</a></li>
+    </ol>
 
-</div>
+    <hr>
 
----
+    <h2 id="introduction">Introduction</h2>
+    <p>AI tools are not shortcuts to avoid doing the work—they’re supports that help you focus on the work that matters most: thinking, writing, and engaging critically with the material. Use them wisely, and they’ll save you hours of repetitive effort. Use them poorly, and they’ll give you results that lack depth or focus.</p>
+    <p>This guide highlights <strong>Undermind</strong> as your primary research assistant and introduces other tools to help you find, organize, and refine your sources.</p>
 
-## 📖 Table of Contents
+    <hr>
 
-1. [Introduction to AI in Research](#introduction-to-ai-in-research)  
-2. [Tool Spotlight](#tool-spotlight)  
-   - [Zotero: Organize and Cite](#zotero-organize-and-cite)  
-   - [ChatGPT: Brainstorm and Simplify](#chatgpt-brainstorm-and-simplify)  
-   - [Undermind: Advanced Search](#undermind-advanced-search)  
-3. [Practical Steps: Getting Started](#practical-steps-getting-started)  
-4. [Best Practices](#best-practices)  
-5. [Resources](#resources)  
-6. [Contact](#contact)  
+    <h2 id="core-tool-undermind">🔧 Core Tool: Undermind</h2>
+    <h3>What is Undermind?</h3>
+    <p>Undermind is an <strong>AI-powered research assistant</strong> built for academic discovery. It specializes in:</p>
+    <ul>
+        <li>Quickly finding <strong>relevant academic papers</strong>.</li>
+        <li>Summarizing complex ideas into accessible language.</li>
+        <li>Helping you explore related concepts and debates.</li>
+    </ul>
 
----
+    <h3 id="how-to-use-undermind">How to Use Undermind</h3>
+    <ol>
+        <li><strong>Sign Up</strong>: Go to <a href="https://undermind.ai/">Undermind</a> and create a free account (or start a trial).</li>
+        <li><strong>Craft a Research Query</strong>: Be specific about what you’re looking for. Examples:
+            <ul>
+                <li>"Critiques of the medical model of mental disorder in bioethics."</li>
+                <li>"Philosophical perspectives on stigma in mental health care."</li>
+                <li>"Arguments about narrative’s role in mental health recovery."</li>
+            </ul>
+        </li>
+        <li><strong>Refine Results</strong>: Review the papers and summaries Undermind generates. Focus on the most relevant sources for your topic.</li>
+        <li><strong>Build a Bibliography</strong>: Export or manually compile key sources in your preferred format.</li>
+    </ol>
 
-## 🌟 Introduction to AI in Research
+    <hr>
 
-Using AI for research isn't about replacing human effort—it's about **enhancing your capabilities**.  
-Here’s why these tools are game-changers:  
+    <h2 id="additional-tools-for-research">🌟 Additional Tools for Research</h2>
+    <ul>
+        <li><strong>Claude (Anthropic)</strong>: A conversational AI that excels at summarizing texts and brainstorming ideas. <a href="https://www.anthropic.com/">Try Claude</a></li>
+        <li><strong>Connected Papers</strong>: Creates a visual graph of related academic papers to help map debates and concepts. <a href="https://connectedpapers.com/">Explore Connected Papers</a></li>
+        <li><strong>Inciteful</strong>: Analyzes citation networks to highlight key sources in your area of research. <a href="https://inciteful.xyz/">Visit Inciteful</a></li>
+        <li><strong>Elicit</strong>: Helps with literature reviews by surfacing relevant studies and identifying gaps. <a href="https://elicit.org/">Use Elicit</a></li>
+    </ul>
 
-- **Save time:** Automate tedious tasks like organizing sources and formatting citations.  
-- **Boost creativity:** Get help brainstorming ideas and exploring new perspectives.  
-- **Accelerate learning:** Summarize complex articles and identify key insights quickly.  
+    <hr>
 
----
+    <h2 id="best-practices">💡 Best Practices</h2>
+    <blockquote>
+        <p><strong>Take Control</strong>: Be specific and intentional in your searches. Don’t let AI dictate your focus—guide it with clear, thoughtful queries.</p>
+        <p><strong>Iterate</strong>: Refine your prompts as you explore your topic. If your results are too broad or irrelevant, adjust your terms or focus.</p>
+        <p><strong>Cross-Check</strong>: AI-generated outputs are helpful but not infallible. Always verify sources and information with trusted materials.</p>
+        <p><strong>Combine Tools</strong>: Use Undermind for source discovery, Connected Papers for visualizing debates, and Claude for summarizing or brainstorming.</p>
+    </blockquote>
 
-## 🔧 Tool Spotlight
+    <hr>
 
-### <img src="https://www.zotero.org/static/images/favicon.ico" height="16px"> **Zotero: Organize and Cite**
+    <h2 id="resources">📚 Resources</h2>
+    <table>
+        <thead>
+            <tr>
+                <th>Tool</th>
+                <th>Link</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td><strong>Undermind</strong></td>
+                <td><a href="https://undermind.ai/faq">Undermind FAQ</a></td>
+            </tr>
+            <tr>
+                <td><strong>Claude</strong></td>
+                <td><a href="https://www.anthropic.com/">Anthropic Overview</a></td>
+            </tr>
+            <tr>
+                <td><strong>Connected Papers</strong></td>
+                <td><a href="https://connectedpapers.com/about">About Connected Papers</a></td>
+            </tr>
+            <tr>
+                <td><strong>Elicit</strong></td>
+                <td><a href="https://elicit.org/">Elicit Help</a></td>
+            </tr>
+        </tbody>
+    </table>
 
-Zotero is your **personal research assistant** for managing references, creating bibliographies, and staying organized.  
+    <hr>
 
-- **Features:**  
-  - Save articles directly from your browser.  
-  - Organize references into folders and tags.  
-  - Generate citations in any format (APA, MLA, Chicago, etc.).  
+    <h2 id="contact">📬 Contact</h2>
+    <p>For questions or issues, reach out:</p>
+    <p><strong>Cameron Pattison (he/him)</strong><br>
+    Philosophy Department, Vanderbilt University<br>
+    📧 <a href="mailto:cameron.pattison@vanderbilt.edu">cameron.pattison@vanderbilt.edu</a></p>
 
-🛠 **Pro Tip:** Use Zotero's browser extension to instantly save sources while browsing.
-
-[👉 Get Started with Zotero](https://www.zotero.org/)
-
----
-
-### <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/OpenAI_Logo.svg/64px-OpenAI_Logo.svg.png" height="16px"> **ChatGPT: Brainstorm and Simplify**
-
-ChatGPT is like having a **study buddy** who’s always ready to help. Use it for:  
-
-- **Brainstorming:** Generate ideas for essays, research topics, or project proposals.  
-- **Summarizing:** Quickly condense dense academic articles into digestible summaries.  
-- **Explaining:** Simplify technical or complex concepts.
-
-💬 **Example Prompt:**  
-> "Summarize this paper on the molecular mechanisms of Hebbian learning in 100 words."
-
-🛠 **Pro Tip:** Refine your prompts to get better results—be specific and concise.
-
-[👉 Try ChatGPT](https://openai.com/chatgpt)
-
----
-
-### <img src="https://undermind.ai/favicon.ico" height="16px"> **Undermind: Advanced Search**
-
-Undermind is an AI-powered tool for **deep literature reviews** and **academic discovery**. It’s perfect for finding **specific, high-quality papers** that would otherwise take hours to locate.  
-
-- **Features:**  
-  - Precise results tailored to your query.  
-  - Comprehensive search across hundreds of papers.  
-  - Contextual explanations for why sources matter.  
-
-💡 **Example Use Case:**  
-You need to explore recent advancements in laser cooling to Bose-Einstein Condensation.  
-Undermind provides you with all relevant experimental papers and a summary of key methods.  
-
-[👉 Explore Undermind](https://undermind.ai/)
-
----
-
-## 🛠 Practical Steps: Getting Started
-
-### **Step 1: Download Zotero**
-- [Install Zotero](https://www.zotero.org/download/).  
-- Set up your library and browser extension.
-
-### **Step 2: Sign Up for ChatGPT**
-- [Access ChatGPT](https://openai.com/chatgpt).  
-- Experiment with prompts for summarizing or brainstorming.
-
-### **Step 3: Try Undermind**
-- [Sign up for Undermind](https://undermind.ai/).  
-- Perform a search on a topic you’re currently studying.
-
----
-
-## 💡 Best Practices
-
-> **✨ Combine Tools Effectively:**  
-> Use Zotero for managing sources found with Undermind. Then leverage ChatGPT to summarize or brainstorm ideas from your Zotero library.
-
-> **⚡ Evaluate AI Outputs:**  
-> AI tools are powerful, but they aren’t perfect. Always cross-check insights with trusted sources.
-
-> **🔍 Stay Curious:**  
-> Explore different prompts and search strategies to get the most out of these tools.
-
----
-
-## 📚 Resources
-
-| Tool       | Documentation Link                               |
-|------------|--------------------------------------------------|
-| **Zotero** | [Zotero Documentation](https://www.zotero.org/support/) |
-| **ChatGPT** | [ChatGPT Blog](https://openai.com/blog/)        |
-| **Undermind** | [Undermind FAQ](https://undermind.ai/faq)      |
-
----
-
-## 🎥 Want More? (Optional Add-ons)
-- 📺 **Demo Video:** *[Link to your recorded presentation or walkthrough video]*  
-- 📑 **Presentation Slides:** *[Link to your slides]*  
-- 🔗 **Sample Project Library:** *[Link to a shared Zotero library]*  
-
----
-
-## 📬 Contact
-
-For questions or feedback, reach out to:  
-
-**Cameron Pattison (he/him)**  
-🏫 Vanderbilt University, Philosophy Department  
-📧 *[cameron.pattison@vanderbilt.edu]*  
-
----
-
-<div align="center">
-
-🎉 **Let’s revolutionize how we approach research!** 🎉  
-
-🌟 *Research smarter, not harder.* 🌟  
-
-</div>
+    <div class="center">
+        <p>🌟 <strong>Use the tools, keep control, and focus on what matters: your ideas.</strong></p>
+    </div>
+</body>
+</html>
